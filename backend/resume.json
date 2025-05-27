@@ -1,0 +1,125 @@
+{
+  "name": "Neil Brian C. Pador",
+  "contact": {
+    "email": "neilbrian.pador@gmail.com",
+    "phone": "+639052568126",
+    "location": "Bulacan, Philippines"
+  },
+  "skills": [
+    "JavaScript (ES6+)",
+    "PHP",
+    "Python",
+    "VB.net",
+    "C#/C++",
+    "HTML5",
+    "Tailwind CSS",
+    "CSS3",
+    "NodeJS",
+    "ReactJS",
+    "VueJS",
+    "Express",
+    "RESTful API",
+    "Git",
+    "GitHub",
+    "Visual Studio"
+  ],
+  "education": [
+    {
+      "degree": "Masters of Science in Computer Engineering",
+      "institution": "Bulacan State University",
+      "units": "36",
+      "duration": "January 2022 - present"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Engineering",
+      "institution": "Bulacan State University",
+      "duration": "June 2012 - June 2018"
+    }
+  ],
+  "work_experience": [
+    {
+      "position": "Lead Programmer",
+      "company": "Bulacan State University",
+      "duration": "March 2022 - present",
+      "responsibilities": [
+        "Design, develop and install/deploy web/desktop application/software/database systems",
+        "Manage projects in line with Bulacan State University and the Planning and Development Office"
+      ]
+    },
+    {
+      "position": "Teaching Assistant (Part-time)",
+      "company": "Skilspire",
+      "duration": "August 2024 - present",
+      "responsibilities": 
+        "Assisting in teaching programming and software development concepts"
+    },
+    {
+      "position": "Desktop Publisher Specialist",
+      "company": "Topppan Best Pre-Media Limited",
+      "duration": "September 2018 - May 2020",
+      "responsibilities": [
+        "Organizing and converting data into XML format",
+        "Ensuring accurate representation and adherence to defined standards",
+        "Collaborated closely with clients to understand specific requirements and efficiently organized data accordingly"
+      ]
+    },
+    {
+      "position": "Data Encoder",
+      "company": "Philippine Statistics Authority",
+      "duration": "August 2020 - July 2021"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PDO Investment Program",
+      "url": "https://pdo-bulsupips.web.app"
+    },
+    {
+      "name": "Performance Monitoring Evaluation System",
+      "url": "https://pdo-pmes.web.app"
+    },
+    {
+      "name": "PDO Local Kanban",
+      "url": "https://pdokanban.web.app/"
+    },
+ {
+      "name": "BulSU Smart Campus Security",
+      "description": "Managed project at Bulacan State University, specifically contributing to the Smart CCTV project under the BulSU Smart Campus initiative. This involved integrating advanced surveillance technologies with real-time monitoring systems to enhance campus security and safety."
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Civil Service Commission III",
+      "role": "Taker of the Civil Service Examination - Professional Level",
+      "date": "March 26, 2023",
+      "level": "Professional (Level 2)",
+      "note": "CSC Eligibility Number: (Not yet issued)"
+    },
+    {
+        
+      "title": "Mastering Leadership and People Management in the Workplace: Insights from a Project Development Officer",
+      "role": "Guest Speaker",
+      "institution": "Bulacan State University",
+      "date": "May 06, 2023"
+    },
+    {
+      "title": "2022 National Science and Technology Week Celebration in Central Luzon: PAGTANAW 2050",
+      "role": "Participant",
+      "institution": "DOST Region III",
+      "date": "November 29, 2022"
+    },
+    {
+      "title": "COE-ntuhan Tayo!: The Past, Present and Future Engineers",
+      "role": "Guest Speaker",
+      "institution": "Bulacan State University",
+      "date": "March 28, 2023"
+    },
+    {
+      "title": "CCNA Training Bootcamp Completion",
+      "role": "Trainee",
+      "institution":" TOP PROFESSIONAL REVIEW SOLUTION, INC.",
+        "date": " September 15, 2018"
+    }
+  ],
+  "statement": "I am an experienced MERN Stack Developer making a way in the field of web development, where I can apply my knowledge and skills for continuous improvement. I hereby certify that all the above information is true and correct to the best of my knowledge and belief."
+}
